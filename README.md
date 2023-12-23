@@ -1,2 +1,18 @@
 # Smart-Agriculture-Classifier-SAC-Project
-This project leverages Soft Actor-Critic (SAC) in Lux AI Challenge Season 2, a turn-based strategy game.SAC, a state-of-the-art deep reinforcement learning algorithm, optimizes resource collection and lichen growth in a dynamic environment. 
+This project leverages Soft Actor-Critic (SAC) in Lux AI Challenge Season 2, a turn-based strategy game. SAC, a state-of-the-art deep reinforcement learning algorithm, optimizes resource collection and lichen growth in a dynamic environment. The Lux world, represented as a 2D grid, demands strategic decision-making to compete for resources, build factories, and grow lichen. The SAC algorithm's sample efficiency and stability make it a promising candidate for addressing the complexities of the Lux game. This endeavor explores SAC's performance, compares it with standard algorithms, and suggests potential improvements, offering insights into applying advanced machine learning in strategic gaming scenarios. 
+
+# Introduction
+
+The fusion of deep reinforcement learning and strategic gaming in artificial intelligence has unveiled novel opportunities for intelligent decision-making. This project embarks on a journey into the Lux AI Challenge Season 2, a turn-based strategy game set in the futuristic endeavor to terraform Mars. Our focus lies in harnessing the power of Soft Actor-Critic (SAC), an advanced deep reinforcement learning algorithm, to navigate the complexities of this dynamic gaming environment. Soft Actor-Critic, known for its sample efficiency and stability, presents a promising avenue for optimizing resource collection, strategic factory placement, and lichen growth—a trifecta of critical objectives in Lux. As we delve into this strategic gaming landscape, we aim to assess SAC's prowess, draw comparisons with conventional algorithms, and propose potential enhancements to augment its performance in this dynamic setting.
+
+## 1.1 Lux AI Challenge Season 2: A Brief Overview
+
+Lux AI Challenge Season 2 is a captivating competition where two competing teams strategically control a fleet of factories and robots to collect resources, plant lichen, and dominate the Martian landscape. The game's turn-based nature introduces complexities that demand astute decision-making, optimization of resource utilization, and strategic planning. The challenge encompasses several key categories, including Factory Placement, Resource Collection, and Lichen Growth, each contributing to achieving dominance through effective decision-making in a dynamic, resource-constrained environment.
+
+## 1.2 Extract from the Selected Paper
+
+Our inspiration for this project stems from the seminal paper titled "Soft Actor-Critic" (SAC), a revolutionary deep reinforcement learning algorithm. SAC stands out for its sample efficiency, stability, and applicability to complex tasks, making it an ideal candidate for navigating the intricate challenges presented in Lux AI Challenge Season 2. The paper introduces SAC as an off-policy maximum entropy deep reinforcement learning algorithm, providing theoretical insights and empirical evidence of its superiority over state-of-the-art model-free deep reinforcement learning methods. The algorithm's sample efficiency surpasses conventional methods, offering a robust framework for addressing the challenges of strategic decision-making in turn-based strategic gaming environments.
+
+## 1.3 Objective of the Project
+
+This project aims to extend the principles of SAC into the Lux AI Challenge Season 2 context, evaluating its effectiveness in resource collection, strategic factory placement, and lichen growth. By comparing SAC against traditional algorithms and exploring potential enhancements, we seek to uncover insights into its adaptability and efficiency in addressing the unique challenges the Martian terraforming competition poses.
