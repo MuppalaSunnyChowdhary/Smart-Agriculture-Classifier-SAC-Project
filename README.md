@@ -1,4 +1,4 @@
-# Smart-Agriculture-Classifier-SAC-Project
+# Soft-Actor-Critic-SAC-Project
 This project leverages Soft Actor-Critic (SAC) in Lux AI Challenge Season 2, a turn-based strategy game. SAC, a state-of-the-art deep reinforcement learning algorithm, optimizes resource collection and lichen growth in a dynamic environment. The Lux world, represented as a 2D grid, demands strategic decision-making to compete for resources, build factories, and grow lichen. The SAC algorithm's sample efficiency and stability make it a promising candidate for addressing the complexities of the Lux game. This endeavor explores SAC's performance, compares it with standard algorithms, and suggests potential improvements, offering insights into applying advanced machine learning in strategic gaming scenarios. 
 
 # Introduction
